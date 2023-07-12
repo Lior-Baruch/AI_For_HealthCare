@@ -47,7 +47,7 @@ Following the BYOL model training, a classifier model was trained on the learned
 
 ### Comparison of Models
 
-When comparing the three models, it is evident that the classifier model trained on BYOL representations outperforms the baseline model. The baseline model achieved a test accuracy of 53.16%, while the classifier model reached a test accuracy of 67.81%. This represents an improvement of approximately 14.65 percentage points.
+When comparing the three models, it is evident that the classifier model trained on BYOL representations outperforms the baseline model. The baseline model achieved a test accuracy of 53.16%, while the classifier model reached a test accuracy of 69.02%. This represents an improvement of approximately 14.65 percentage points.
 
 - (Insert a table or plot comparing the test accuracies of the models)
 - ![image](https://github.com/Lior-Baruch/AI_For_HealthCare/assets/80769137/9c9b9d3e-8c54-4cfd-b239-74e0243bbac6)
